@@ -31,7 +31,7 @@ fun reversedstring(student: String): String{
 
  }
 //Write a function that takes a list of integers as a
-//parameter and return a sorted string.
+//parameter and return a sorted list.
 
  fun elements(number: List<Int>) :List<Int> {
 
